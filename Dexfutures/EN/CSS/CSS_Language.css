@@ -1,0 +1,73 @@
+body
+  {
+    background-color: white;
+    font-style: normal;
+    font-family: fantasy, sans-serif;
+  }
+
+.container
+  {
+    overflow: auto;
+    color: black;
+  }
+
+.h1
+  {
+    text-align: center;
+    font-size: xx-large;
+    margin:0 40px;
+    font-style: normal;
+    font-family: fantasy, sans-serif;
+  }
+
+.h1 a
+  {
+    text-decoration : none;
+    color : black;
+  }
+
+.h1 a:active
+  {
+    text-decoration: none;
+  }
+
+ul
+  {
+    list-style-type: none;
+  }
+
+li
+  {
+    float: right;
+    color: black;
+  }
+
+li a
+  {
+    display: block;
+    padding: 14px 16px;
+    text-align: center;
+    text-decoration: none;
+    font-style: normal;
+    font-family: fantasy, sans-serif;
+    color : black;
+  }
+
+li a:hover
+  {
+    background-color: #EFE9DC;
+  }
+
+li a:active
+  {
+    text-decoration: none;
+  }
+
+.Disclaimer
+  {
+    text-align: center;
+    border-style: solid;
+    border-color: red;
+    margin-top : 5%;
+
+  }

@@ -1,0 +1,147 @@
+body
+  {
+    background-color: white;
+    font-style: normal;
+    font-family: fantasy, sans-serif;
+  }
+
+.container
+  {
+    overflow: auto;
+    color: black;
+  }
+
+.h1
+  {
+    text-align: center;
+    font-size: xx-large;
+    margin:0 40px;
+    font-style: normal;
+    font-family: fantasy, sans-serif;
+  }
+
+.h1 a
+  {
+    text-decoration : none;
+    color : black;
+  }
+
+.h1 a:active
+  {
+    text-decoration: none;
+  }
+  
+ul
+  {
+    list-style-type: none;
+  }
+
+li
+  {
+    float: right;
+    color: black;
+  }
+
+li a
+  {
+    display: block;
+    padding: 14px 16px;
+    text-align: center;
+    text-decoration: none;
+    font-style: normal;
+    font-family: fantasy, sans-serif;
+    color : black;
+  }
+
+li a:hover
+  {
+    background-color: #EFE9DC;
+  }
+
+li a:active
+  {
+    text-decoration: none;
+  }
+
+.Disclaimer
+  {
+    text-align: center;
+    border-style: solid;
+    border-color: red;
+    margin-top : 5%;
+
+  }
+
+.Foncgen:before
+  {
+    content : "General operation :";
+    text-decoration: underline;
+    font-weight: 900;
+    font-size: large;
+  }
+
+.Foncgen
+  {
+    text-align: left;
+  }
+
+.Opttaken:before
+  {
+    content: "Options taken :";
+    text-decoration: underline;
+    font-weight: 900;
+    font-size: large;
+  }
+
+.Htable
+  {
+    text-decoration: underline;
+    font-weight: 900;
+    font-size: large;
+  }
+
+.table, th, td
+  {
+    border-style: solid;
+    margin-left: 5%;
+    margin-top: 1.5%;
+  }
+
+.exa
+  {
+    float: left;
+    margin-left: 2%;
+  }
+
+.exah2
+  {
+    text-decoration: underline;
+    font-weight: 900;
+    font-size: large;
+  }
+
+.foot
+  {
+    border-style: solid;
+    border-color: red;
+    text-align: center;
+    margin-top: 21%;
+    margin-left: 2%;
+  }
+
+.ancre
+  {
+    text-align: center;
+    margin-top: 3%;
+  }
+
+.button
+  {
+    border-style: solid;
+    border-radius: 7%;
+    padding: 20px;
+    margin-right: 50px;
+    margin-left: 50px;
+    text-decoration: none;
+    color : black;
+  }

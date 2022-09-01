@@ -1,0 +1,150 @@
+body
+  {
+    background-color: white;
+  }
+
+.container
+  {
+    overflow: auto;
+    color : black
+  }
+
+.h1
+  {
+    text-align: center;
+    font-size: xx-large;
+    margin:0 40px;
+    font-style: normal;
+    font-family: fantasy, sans-serif;
+  }
+
+.h1 a
+  {
+    text-decoration : none;
+    color : black;
+  }
+
+.h1 a:active
+  {
+    text-decoration: none;
+  }
+
+ul
+  {
+    list-style-type: none;
+  }
+
+li
+  {
+    float: right;
+  }
+
+li a
+  {
+    display: block;
+    padding: 14px 16px;
+    text-align: center;
+    text-decoration: none;
+    font-style: normal;
+    font-family: fantasy, sans-serif;
+    color : black;
+
+  }
+
+li a:hover
+  {
+    background-color: #EFE9DC;
+  }
+
+li a:active
+  {
+    text-decoration: none;
+  }
+
+.column
+  {
+    float: left;
+    width: 20%;
+    padding: 5px;
+    font-style: normal;
+    font-family: fantasy, sans-serif;
+    padding-left: 30px;
+    margin-right: 20px;
+    border-style: solid;
+    border-radius: 15px;
+    box-shadow: 10px 10px grey;
+  }
+
+.row:before
+  {
+    content: "Pair 12h :";
+    display: table;
+    clear: both;
+    margin-top: 10%;
+    padding-left: 30px;
+    font-style: normal;
+    font-family: fantasy, sans-serif;
+  }
+
+.row2:before
+  {
+    content: "Pair 24h :";
+    display: table;
+    clear: both;
+    padding-top: 5%;
+    padding-left: 30px;
+    font-style: normal;
+    font-family: fantasy, sans-serif;
+  }
+
+@media screen and (max-width:600px)
+  {
+    .column
+      {
+        width: 100%;
+      }
+  }
+
+a
+  {
+    color: black;
+  }
+
+a:link
+  {
+    text-decoration: none;
+  }
+
+a:visited
+  {
+    text-decoration: none;
+  }
+
+a:active
+  {
+    text-decoration: none;
+  }
+
+.rules
+  {
+    text-align: left;
+    margin-top: 15%;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-style: normal;
+    font-family: fantasy, sans-serif;
+    border-style: solid;
+  }
+
+.hrules
+  {
+    text-align: center;
+  }
+
+.pub
+  {
+    border-style: dotted;
+    text-align: center;
+    font-size: x-large;
+    margin-top: 5%;
+  }

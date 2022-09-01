@@ -1,0 +1,183 @@
+.V2:before
+  {
+    content:"V2 :";
+    text-decoration: underline;
+    font-weight: 900;
+    font-size: large;
+    text-align: left;
+  }
+
+.V2
+  {
+    margin-top: 1.5%;
+  }
+
+.V2_1:before
+  {
+    content:"Option 1 :";
+    text-decoration: underline;
+    font-weight: 900;
+    font-size: large;
+    text-align: left;
+  }
+
+.V2_1
+  {
+    margin-top: 1.5%;
+    padding-left: 5%;
+  }
+
+.V2_2:before
+  {
+    content:"Option 2 :";
+    text-decoration: underline;
+    font-weight: 900;
+    font-size: large;
+    text-align: left;
+  }
+
+.V2_2
+  {
+    margin-top: 1.5%;
+    padding-left: 5%;
+  }
+
+.V2_3:before
+  {
+    content:"Option 3 :";
+    text-decoration: underline;
+    font-weight: 900;
+    font-size: large;
+    text-align: left;
+  }
+
+.V2_3
+  {
+    margin-top: 1.5%;
+    padding-left: 5%;
+  }
+
+.V3:before
+  {
+    content:"V3 :";
+    text-decoration: underline;
+    font-weight: 900;
+    font-size: large;
+    text-align: left;
+  }
+
+.V3
+  {
+    margin-top: 1.5%;
+  }
+
+.table, th, td
+ {
+   border-style: solid;
+   margin-left: 5%;
+   margin-top: 1.5%;
+ }
+
+.V4:before
+  {
+    content:"V4 :";
+    text-decoration: underline;
+    font-weight: 900;
+    font-size: large;
+    text-align: left;
+  }
+
+.V4
+  {
+    margin-top: 1.5%;
+  }
+
+.V4_1:before
+  {
+    content:"Decision to be made :";
+    text-decoration: underline;
+    font-weight: 900;
+    font-size: large;
+    text-align: left;
+  }
+
+.V4_1
+  {
+    margin-top: 1.5%;
+    padding-left: 5%;
+  }
+
+.V4_2:before
+  {
+    content:"Imperative limit :";
+    text-decoration: underline;
+    font-weight: 900;
+    font-size: large;
+    text-align: left;
+  }
+
+.V4_2
+  {
+    margin-top: 1.5%;
+    padding-left: 5%;
+  }
+
+.V4_3:before
+  {
+    content:"Decision to bring in shitcoins :";
+    text-decoration: underline;
+    font-weight: 900;
+    font-size: large;
+    text-align: left;
+  }
+
+.V4_3
+  {
+    margin-top: 1.5%;
+    padding-left: 5%;
+  }
+
+.V4_4:before
+  {
+    content:"Decision to be made on standard deviation :";
+    text-decoration: underline;
+    font-weight: 900;
+    font-size: large;
+    text-align: left;
+  }
+
+.V4_4
+  {
+    margin-top: 1.5%;
+    padding-left: 5%;
+  }
+
+.V4_5:before
+  {
+    content:"Over long periods :";
+    text-decoration: underline;
+    font-weight: 900;
+    font-size: large;
+    text-align: left;
+  }
+
+.V4_5
+  {
+    margin-top: 1.5%;
+    padding-left: 5%;
+  }
+
+.V4_6:before
+  {
+    content:"Decision to be made to capture the fees :";
+    text-decoration: underline;
+    font-weight: 900;
+    font-size: large;
+    text-align: left;
+  }
+
+.V4_6
+  {
+    margin-top: 1.5%;
+    padding-left: 5%;
+  }
